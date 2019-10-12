@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplicativoWeb", "AplicativoWeb.csproj", "{71CE2233-B560-4ABE-B922-EA3534256E61}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{E64837C9-7043-4C32-9FEC-0036FAECF2E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71CE2233-B560-4ABE-B922-EA3534256E61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71CE2233-B560-4ABE-B922-EA3534256E61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71CE2233-B560-4ABE-B922-EA3534256E61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71CE2233-B560-4ABE-B922-EA3534256E61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{71CE2233-B560-4ABE-B922-EA3534256E61} = {E64837C9-7043-4C32-9FEC-0036FAECF2E3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CDA4797-7264-4633-B9C4-AB2CF6CCA602}
+	EndGlobalSection
+EndGlobal
